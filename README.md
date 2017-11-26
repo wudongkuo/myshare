@@ -1,0 +1,2 @@
+# myshare
+share for me
